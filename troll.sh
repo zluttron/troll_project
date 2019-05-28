@@ -128,7 +128,7 @@ spam(){
                     echo " Gunakan tools dengan bijak"
                     echo
                     echo " Love u always "
-                    echo " -zLucifer"
+                    echo " -zluttron"
                     echo "======================================="
             else
                     echo "Kesalahan"
@@ -168,7 +168,7 @@ spam(){
                   echo " Gunakan tools dengan bijak"
                   echo
                   echo " Love u always "
-                  echo " -zLucifer"
+                  echo " -zluttron"
                   echo "========================================"
             else
                   echo Kesalahan, silahkan coba lagi
